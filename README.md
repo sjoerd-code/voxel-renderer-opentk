@@ -3,7 +3,7 @@ Voxel rendering engine build using OpenTK and .NET
 
 ## How to compile:
 
-First you need to install the latest .NET SDK: https://dotnet.microsoft.com/en-us/download
+First you need to install the .NET 6 SDK
 
 To get the dependencies use:
 ``
