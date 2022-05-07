@@ -1,7 +1,7 @@
-# otkvr
+## What this is:
 Voxel rendering engine build using OpenTK and .NET
 
-## Building
+## How to compile:
 
 First you need to install the latest .NET SDK: https://dotnet.microsoft.com/en-us/download
 
