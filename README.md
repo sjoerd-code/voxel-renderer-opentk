@@ -19,6 +19,3 @@ To run the code use:
 ``
 dotnet run
 ``
-
-## Example:
-https://user-images.githubusercontent.com/59654421/168636716-a721abae-a7f1-4e25-a23b-0453780711e7.mp4
